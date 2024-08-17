@@ -1,5 +1,5 @@
 # tas-kagit-makas
-Global AI Hub tarafından verilen "Aygaz Python Bootcamp: Yeni Nesil Proje Kampı" kapsamında katılımcılardan istenen "Taş, Kağıt, Makas" Oyunu
+Global AI Hub tarafından verilen "Aygaz Python Bootcamp: Yeni Nesil Proje Kampı" kapsamında katılımcılardan istenen "Taş, Kağıt, Makas" oyunu
 
 Bu proje, Python ile yapılmış basit bir "Taş, Kağıt, Makas" oyunudur. Oyunda bilgisayara karşı taş, kağıt veya makas seçimi yaparak oynarsınız. Bilgisayar da rastgele bir seçim yapar ve sonuç, oyun kurallarına göre belirlenir.
 
